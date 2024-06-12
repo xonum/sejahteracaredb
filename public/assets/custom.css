@@ -1,0 +1,24 @@
+.w-fit {
+    width: fit-content;
+}
+.w-max {
+    width: max-content;
+}
+.w-min {
+    width: min-content;
+}
+.w-33 {
+    width: 33%;
+}
+.w-66 {
+    width: 66%;
+}
+.w-75 {
+    width: 75%;
+}
+.alert-container {
+    position: fixed;
+    top: 70px;
+    right: 10px;
+    z-index: 9999;
+}
